@@ -6,7 +6,7 @@
     <link rel="shortcut icon" href="./images/doge.ico">
 <!--    <link href="main.css" media="all" rel="stylesheet">-->
     <link rel="stylesheet" href="jemdoc.css" type="text/css">
-    <title>Di CHANG | 常迪</title>
+    <title>YANHAO BAI | 白岩浩</title>
     </head>
 
 <body>
@@ -17,23 +17,19 @@
 		<tr>
 			<td width="670">
 				<div id="toptitle">
-					<h1 style="color:#FF0000">Di (Kilian) Chang</h1><h1>
-					<h1 style="color:#FF0000">常迪</h1><h1>
+					<h1 style="color:#FF0000">Yanhao Bai</h1><h1>
+					<h1 style="color:#FF0000">白岩浩</h1><h1>
 				</h1></div>
 
-				<h3>CS Ph.D.  @ <a href="https://www.usc.edu/" target="_blank">University of Southern California</a></h3>
-				<!-- <h3>Research Scientist Intern @ <a href="https://www.tiktok.com/en/" target="_blank">TikTok</a></h3> -->
-<!--                <h3>University of Southern California</h3>-->
+				<h3>CS Undergraduate  @ <a href="https://www.berkeley.edu" target="_blank">University of California, Berkeley</a></h3>
 				<p>
-					<a href="https://www.cs.usc.edu/" target="_blank">Department of Computer Science</a> <br>
-					<a href="https://viterbischool.usc.edu/" target="_blank">Viterbi School of Engineering</a><br>
-					<a href="https://www.usc.edu/" target="_blank">University of Southern California</a> <br>
-
-<!--					Rm B06, Hedco Neurosciences Building, 3641 Watt Way, Los Angeles, CA 90089-2520, USA <br>-->
-
-					Email1: dichang at usc dot edu (primary) <br>
-					Email2: dchang at ict dot usc dot edu <br>
-					Email3: di dot chang at bytedance dot com
+					<a href="https://eecs.berkeley.edu/academics" target="_blank">Department of Electrical Engineering and Computer Sciences</a> <br>
+					<a href="https://engineering.berkeley.edu" target="_blank">College of Engineering</a><br>
+					<a href="https://www.berkeley.edu" target="_blank">University of California, Berkeley</a> <br>
+					1627 University Ave, Berkeley 94703, CA, USA
+					Email1: yanhao at berkeley dot edu (primary) <br>
+					Email2: 2062400572 at mail dot dlut dot edu dot cn <br>
+					Email3: yanhao dot bai at tum dot edu
 				</p>
 				<p> <a href="https://scholar.google.com.hk/citations?hl=en&user=68wkMTgAAAAJ" target="_blank"><img src="./pics/google_scholar3.png" height="40px" style="margin-bottom:-3px"></a>
 					<a href="https://github.com/Boese0601" target="_blank"><img src="./pics/github_s.jpg" height="40px" style="margin-bottom:-3px"></a>
