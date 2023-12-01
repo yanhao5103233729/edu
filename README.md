@@ -1,1 +1,1 @@
-https://github.com/yanhao5103233729/#edu
+https://yanhao5103233729.github.io/edu/
